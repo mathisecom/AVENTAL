@@ -216,6 +216,76 @@
         "spacing": "none"
       }
     },
+    "collection_list_DqXhgG": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_cfzXwd": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_JBfnkk": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_7ra34A": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_cfzXwd",
+        "collection_JBfnkk",
+        "collection_7ra34A"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection Tendances 2025",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#68161d",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "scrolling_text_eVpfpP": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -395,6 +465,7 @@
     "ss_scrolling_logo_cloud_5_wHrj7w",
     "featured_collection_KEw8qj",
     "media_with_text_Q7yyXF",
+    "collection_list_DqXhgG",
     "scrolling_text_eVpfpP",
     "featured_collection_4TqR4L",
     "testimonials_am7bG9",
