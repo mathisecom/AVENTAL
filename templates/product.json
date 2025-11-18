@@ -148,6 +148,41 @@
         "input_text_color": ""
       }
     },
+    "media_with_text_PwiaEt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_rG8JKr": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#68161d",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rG8JKr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "testimonials_X9zjxJ": {
       "type": "testimonials",
       "blocks": {
@@ -206,6 +241,22 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
+      }
+    },
+    "scrolling_text_9grmLK": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#68161d",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     },
     "related-products": {
@@ -286,7 +337,9 @@
   },
   "order": [
     "main",
+    "media_with_text_PwiaEt",
     "testimonials_X9zjxJ",
+    "scrolling_text_9grmLK",
     "related-products",
     "faq_QfzH4d"
   ]
