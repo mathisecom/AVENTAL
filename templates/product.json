@@ -46,14 +46,6 @@
           "disabled": true,
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -112,6 +104,14 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
         }
       },
       "block_order": [
@@ -121,14 +121,14 @@
         "price",
         "rating",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "liquid_7PWbiH",
         "liquid_C8mF94",
         "collapsible_text_jBdggq",
-        "collapsible_text_C6iPXf"
+        "collapsible_text_C6iPXf",
+        "description"
       ],
       "settings": {
         "full_width": true,
