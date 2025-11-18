@@ -76,11 +76,62 @@
         "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#5b1218",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "#f2f2f2",
         "product_card_text_color": "#000000"
+      }
+    },
+    "media_with_text_Q7yyXF": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_jVqdXJ": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "DÉCOUVRIR",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#5b1218",
+            "text_gradient": "",
+            "button_background": "#5b1218",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_jVqdXJ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "scrolling_text_eVpfpP": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#5b1218",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     },
     "featured_collection_4TqR4L": {
@@ -151,27 +202,38 @@
             "title": "Testimonial 3",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
+        },
+        "testimonial_Ekfw7d": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_whgCB4",
         "testimonial_zjbRw9",
-        "testimonial_PqXydQ"
+        "testimonial_PqXydQ",
+        "testimonial_Ekfw7d"
       ],
-      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "",
+        "title": "Ils En Parlent Mieux Que Nous",
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#5b1218",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#242222",
-        "heading_color": "#ffffff",
+        "text_color": "#5b1218",
+        "heading_color": "#5b1218",
         "heading_gradient": "",
         "testimonial_card_background": "#ffffff",
         "testimonial_card_text_color": ""
@@ -207,21 +269,20 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Questions Fréquentes",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#68161d",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
@@ -234,6 +295,8 @@
   "order": [
     "slideshow_C7mKrA",
     "featured_collection_KEw8qj",
+    "media_with_text_Q7yyXF",
+    "scrolling_text_eVpfpP",
     "featured_collection_4TqR4L",
     "testimonials_am7bG9",
     "faq"
