@@ -9,45 +9,20 @@
  */
 {
   "sections": {
-    "slideshow_C7mKrA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_D4BA8Q": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_D4BA8Q"
-      ],
-      "name": "Slideshow",
+    "video_NNYpMW": {
+      "type": "video",
+      "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "md",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/meilleurs-calendrier-de-l-avent-video.webm",
+        "mobile_video": "shopify://files/videos/meilleurs-calendrier-de-l-avent-video.webm",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
       }
     },
     "ss_scrolling_logo_cloud_5_wHrj7w": {
@@ -385,7 +360,7 @@
     }
   },
   "order": [
-    "slideshow_C7mKrA",
+    "video_NNYpMW",
     "ss_scrolling_logo_cloud_5_wHrj7w",
     "featured_collection_KEw8qj",
     "media_with_text_Q7yyXF",
