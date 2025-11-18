@@ -39,8 +39,15 @@
         "show_shipping_text": false,
         "show_view_cart_button": false,
         "show_checkout_button": true,
-        "recommendations_title": "Trending this month",
-        "products": [],
+        "recommendations_title": "Vous Aimerez Aussi",
+        "products": [
+          "yves-rocher",
+          "calendrier-de-lavent-kiko",
+          "calendrier-de-lavent-flaconi-24-love-brands",
+          "calendrier-de-lavent-payot",
+          "calendrier-de-lavent",
+          "calendrier-de-lavent-mes-jolis-cheveux"
+        ],
         "product_card_background": "#f2f2f2",
         "product_card_text_color": ""
       }
