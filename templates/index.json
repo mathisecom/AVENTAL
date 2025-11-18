@@ -56,9 +56,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "calendrier-de-lavent-mes-jolis-cheveux",
           "yves-rocher",
           "calendrier-de-lavent-payot",
+          "calendrier-de-lavent-mes-jolis-cheveux",
           "calendrier-de-lavent",
           "calendrier-de-lavent-kiko",
           "calendrier-de-lavent-flaconi-24-love-brands"
@@ -81,6 +81,67 @@
         "heading_gradient": "",
         "product_card_background": "#f2f2f2",
         "product_card_text_color": "#000000"
+      }
+    },
+    "testimonials_am7bG9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_whgCB4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_zjbRw9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_PqXydQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_whgCB4",
+        "testimonial_zjbRw9",
+        "testimonial_PqXydQ"
+      ],
+      "disabled": true,
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "faq": {
@@ -140,6 +201,7 @@
   "order": [
     "slideshow_C7mKrA",
     "featured_collection_KEw8qj",
+    "testimonials_am7bG9",
     "faq"
   ]
 }
