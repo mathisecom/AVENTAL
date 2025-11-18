@@ -83,6 +83,39 @@
         "product_card_text_color": "#000000"
       }
     },
+    "featured_collection_4TqR4L": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "yves-rocher",
+          "calendrier-de-lavent-payot",
+          "calendrier-de-lavent",
+          "calendrier-de-lavent-kiko",
+          "calendrier-de-lavent-flaconi-24-love-brands",
+          "calendrier-de-lavent-mes-jolis-cheveux"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "NOS RECOMMANDATIONS",
+        "title": "",
+        "content": "<h2>Coups de Cœur</h2>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#68161d",
+        "background_gradient": "",
+        "text_color": "#f4f4f4",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "product_card_background": "#ffffff",
+        "product_card_text_color": "#000000"
+      }
+    },
     "testimonials_am7bG9": {
       "type": "testimonials",
       "blocks": {
@@ -201,6 +234,7 @@
   "order": [
     "slideshow_C7mKrA",
     "featured_collection_KEw8qj",
+    "featured_collection_4TqR4L",
     "testimonials_am7bG9",
     "faq"
   ]
