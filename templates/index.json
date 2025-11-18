@@ -56,18 +56,21 @@
         "image_eUxtLy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo-rituals-removebg-preview.png",
             "url": ""
           }
         },
         "image_BjeRpy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo-yves-rocher.png",
             "url": ""
           }
         },
         "image_egpnLY": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/peq61xf340xkxx6tc5us.jpg",
             "url": ""
           }
         },
