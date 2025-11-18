@@ -100,6 +100,12 @@
             "image": "shopify://shop_images/logo.svg",
             "url": ""
           }
+        },
+        "image_GwjRVc": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -108,7 +114,8 @@
         "image_egpnLY",
         "image_GiUPyF",
         "image_qpj37e",
-        "image_jVbcCx"
+        "image_jVbcCx",
+        "image_GwjRVc"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
