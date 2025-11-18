@@ -168,12 +168,12 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#5b1218",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#242222",
+        "heading_color": "#ffffff",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#ffffff",
         "testimonial_card_text_color": ""
       }
     },
