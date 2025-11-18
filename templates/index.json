@@ -11,6 +11,30 @@
   "sections": {
     "video_NNYpMW": {
       "type": "video",
+      "blocks": {
+        "heading_xkKfE6": {
+          "type": "heading",
+          "settings": {
+            "text": "Trouvez votre calendrier de l’Avent 2025 idéal",
+            "heading_tag": "h2"
+          }
+        },
+        "button_CaMjgh": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "DÉCOUVRIR",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xkKfE6",
+        "button_CaMjgh"
+      ],
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -22,7 +46,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "overlay_opacity": 48
       }
     },
     "ss_scrolling_logo_cloud_5_wHrj7w": {
