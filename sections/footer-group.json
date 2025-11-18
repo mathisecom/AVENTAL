@@ -95,7 +95,7 @@
             "image": "shopify://shop_images/Logo_7_1.png",
             "image_width": 140,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Newsletter - Recevez -10%",
             "content": ""
           }
         },
@@ -110,7 +110,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
+            "title": "Contactez-Nous",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
             "enable_follow_on_shop": false
           }
