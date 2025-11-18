@@ -77,6 +77,14 @@
         "image_GiUPyF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sephora_logo_svg.png",
+            "url": ""
+          }
+        },
+        "image_qpj37e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_KIKO_MILANO_standard_K.jpg",
             "url": ""
           }
         }
@@ -85,7 +93,8 @@
         "image_eUxtLy",
         "image_BjeRpy",
         "image_egpnLY",
-        "image_GiUPyF"
+        "image_GiUPyF",
+        "image_qpj37e"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
@@ -97,8 +106,8 @@
         "heading_size": 18,
         "heading_size_mobile": 18,
         "heading_height": 130,
-        "scrolling_velocity": 30,
-        "scrolling_velocity_mobile": 30,
+        "scrolling_velocity": 26,
+        "scrolling_velocity_mobile": 20,
         "scrolling_direction": "left",
         "pause_hover": false,
         "scrolling_gap": 70,
