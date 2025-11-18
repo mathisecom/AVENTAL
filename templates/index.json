@@ -12,6 +12,12 @@
     "video_NNYpMW": {
       "type": "video",
       "blocks": {
+        "subheading_7QUtPh": {
+          "type": "subheading",
+          "settings": {
+            "text": "VIVEZ UN DÉCOMPTE UNIQUE VERS NOËL"
+          }
+        },
         "heading_xkKfE6": {
           "type": "heading",
           "settings": {
@@ -32,6 +38,7 @@
         }
       },
       "block_order": [
+        "subheading_7QUtPh",
         "heading_xkKfE6",
         "button_CaMjgh"
       ],
