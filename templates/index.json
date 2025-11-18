@@ -14,7 +14,14 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "calendrier-de-lavent-mes-jolis-cheveux",
+          "yves-rocher",
+          "calendrier-de-lavent-payot",
+          "calendrier-de-lavent",
+          "calendrier-de-lavent-kiko",
+          "calendrier-de-lavent-flaconi-24-love-brands"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
