@@ -87,6 +87,13 @@
             "image": "shopify://shop_images/Logo_KIKO_MILANO_standard_K.jpg",
             "url": ""
           }
+        },
+        "image_jVbcCx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo.svg",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -94,7 +101,8 @@
         "image_BjeRpy",
         "image_egpnLY",
         "image_GiUPyF",
-        "image_qpj37e"
+        "image_qpj37e",
+        "image_jVbcCx"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
