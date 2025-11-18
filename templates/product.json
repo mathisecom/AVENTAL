@@ -105,6 +105,16 @@
             "page": ""
           }
         },
+        "associated_products_3wzU3N": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -128,6 +138,7 @@
         "liquid_C8mF94",
         "collapsible_text_jBdggq",
         "collapsible_text_C6iPXf",
+        "associated_products_3wzU3N",
         "description"
       ],
       "settings": {
