@@ -23,6 +23,7 @@
         },
         "message_LGnVD7": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "PROMOTION SPÉCIAL NOEL  -50%",
             "url": ""
@@ -35,7 +36,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "autoplay": false,
+        "autoplay": true,
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "arrows",
