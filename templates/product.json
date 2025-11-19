@@ -222,6 +222,98 @@
         "testimonial_card_text_color": ""
       }
     },
+    "ss_scrolling_logo_cloud_5_jgYXrF": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_qFRkzf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo-yves-rocher.png",
+            "url": ""
+          }
+        },
+        "image_JwGQw3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo-rituals-removebg-preview.png",
+            "url": ""
+          }
+        },
+        "image_AWQ3wi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sephora_logo_svg.png",
+            "url": ""
+          }
+        },
+        "image_gGYpDp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_KIKO_MILANO_standard_K.jpg",
+            "url": ""
+          }
+        },
+        "image_mk48pB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/peq61xf340xkxx6tc5us.jpg",
+            "url": ""
+          }
+        },
+        "image_VaRfkB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo.svg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_qFRkzf",
+        "image_JwGQw3",
+        "image_AWQ3wi",
+        "image_gGYpDp",
+        "image_mk48pB",
+        "image_VaRfkB"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 30,
+        "scrolling_velocity_mobile": 20,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 30,
+        "card_width_desktop": 130,
+        "card_width_mobile": 100,
+        "heading_color": "#121212",
+        "layout_bg_color": "#FFFFFF",
+        "layout_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "media_with_text_PwiaEt": {
       "type": "media-with-text",
       "blocks": {
@@ -235,7 +327,7 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
+            "title": "Toutes les Marques, Un Seul Endroit",
             "content": "<p>Plongez dans la magie de l’attente avec notre vaste <strong>sélection de calendriers</strong> de l’Avent issus des plus grandes marques.</p><p>Beauté, gourmandises, jouets, bien-être ou éditions premium : nous avons réuni les meilleurs modèles pour <strong>satisfaire toutes les envies et tous les budgets.</strong></p>",
             "link_text": "",
             "link_url": "",
@@ -353,6 +445,7 @@
   "order": [
     "main",
     "testimonials_X9zjxJ",
+    "ss_scrolling_logo_cloud_5_jgYXrF",
     "media_with_text_PwiaEt",
     "scrolling_text_9grmLK",
     "related-products",
