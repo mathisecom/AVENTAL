@@ -150,42 +150,6 @@
         "input_text_color": ""
       }
     },
-    "media_with_text_PwiaEt": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_rG8JKr": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Plongez dans la magie de l’attente avec notre vaste <strong>sélection de calendriers</strong> de l’Avent issus des plus grandes marques.</p><p>Beauté, gourmandises, jouets, bien-être ou éditions premium : nous avons réuni les meilleurs modèles pour <strong>satisfaire toutes les envies et tous les budgets.</strong></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#68161d",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_rG8JKr"
-      ],
-      "disabled": true,
-      "name": "Media with text",
-      "settings": {
-        "full_width": true,
-        "alternate_media_position": false,
-        "spacing": "none"
-      }
-    },
     "testimonials_X9zjxJ": {
       "type": "testimonials",
       "blocks": {
@@ -256,6 +220,42 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_PwiaEt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_rG8JKr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LL21118_calendrier-de-lavent-en-bois-en-forme-de-maison-de-campagne.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Plongez dans la magie de l’attente avec notre vaste <strong>sélection de calendriers</strong> de l’Avent issus des plus grandes marques.</p><p>Beauté, gourmandises, jouets, bien-être ou éditions premium : nous avons réuni les meilleurs modèles pour <strong>satisfaire toutes les envies et tous les budgets.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#68161d",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rG8JKr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
       }
     },
     "scrolling_text_9grmLK": {
@@ -352,8 +352,8 @@
   },
   "order": [
     "main",
-    "media_with_text_PwiaEt",
     "testimonials_X9zjxJ",
+    "media_with_text_PwiaEt",
     "scrolling_text_9grmLK",
     "related-products",
     "faq_QfzH4d"
