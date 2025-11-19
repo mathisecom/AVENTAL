@@ -232,13 +232,14 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 51
           }
         },
         "collection_JBfnkk": {
           "type": "collection",
           "settings": {
             "collection": "gastronomie",
+            "image": "shopify://shop_images/Calendrier-de-l-avent-gourmand-2025-tour-du-monde-saveurs.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -246,7 +247,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 51
           }
         },
         "collection_7ra34A": {
