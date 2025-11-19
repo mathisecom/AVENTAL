@@ -187,6 +187,7 @@
         "image_jVqdXJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/LL21118_calendrier-de-lavent-en-bois-en-forme-de-maison-de-campagne.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
