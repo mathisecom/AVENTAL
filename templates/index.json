@@ -260,12 +260,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_CW7ADQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_cfzXwd",
         "collection_JBfnkk",
-        "collection_7ra34A"
+        "collection_7ra34A",
+        "collection_CW7ADQ"
       ],
       "name": "Collection list",
       "settings": {
