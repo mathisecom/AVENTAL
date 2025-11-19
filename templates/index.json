@@ -223,7 +223,7 @@
         "collection_cfzXwd": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "chocolats",
             "subheading": "",
             "title": "Chocolats",
             "url": "",
@@ -237,7 +237,7 @@
         "collection_JBfnkk": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "gastronomie",
             "subheading": "",
             "title": "",
             "url": "",
@@ -251,7 +251,7 @@
         "collection_7ra34A": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "jeux-decouvertes",
             "subheading": "",
             "title": "",
             "url": "",
@@ -265,7 +265,7 @@
         "collection_CW7ADQ": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "beaute-bien-etre",
             "subheading": "",
             "title": "",
             "url": "",
