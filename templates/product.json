@@ -192,7 +192,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Julie S.",
             "title": "Je suis conquise !",
             "content": "<p>J’ai commandé trois calendriers de marques différentes, les produits étaient de super qualité, la livraison ultra-rapide et l’emballage très soigné. Je suis conquise !</p>"
@@ -205,8 +205,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Je recommande à 100 % !",
+            "content": "<p>Le calendrier de l’Avent beauté que j’ai reçu est absolument magique. Chaque jour, j’ai eu une petite surprise qui m’a fait sourire. Je recommande à 100 % !</p>"
           }
         },
         "testimonial_PnhNN6": {
@@ -215,16 +215,28 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Nina C.",
+            "title": "Très pro !",
+            "content": "<p>Service client très réactif quand j’ai eu une question sur un produit. Ils m’ont conseillé les meilleurs calendriers selon mon budget et mes goûts. Très pro !</p>"
+          }
+        },
+        "testimonial_dr3LJb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Nina C.",
+            "title": "Un vrai plaisir de Découvrir",
+            "content": "<p>J’adore le choix énorme de marques dans cette boutique. On trouve des calendriers premium comme des éditions plus fun sans se ruiner. À chaque commande, c’est un vrai plaisir de découvrir</p>"
           }
         }
       },
       "block_order": [
         "testimonial_iywN3V",
         "testimonial_T8FCNm",
-        "testimonial_PnhNN6"
+        "testimonial_PnhNN6",
+        "testimonial_dr3LJb"
       ],
       "name": "Testimonials",
       "settings": {
