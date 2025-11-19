@@ -110,8 +110,9 @@
           "type": "description",
           "settings": {
             "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "custom_icon": "shopify://shop_images/Design_sans_titre_3.png",
+            "icon_width": 24,
+            "collapse_content": true
           }
         }
       },
