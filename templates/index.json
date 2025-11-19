@@ -254,6 +254,7 @@
           "type": "collection",
           "settings": {
             "collection": "jeux-decouvertes",
+            "image": "shopify://shop_images/60436-LEGO-LEGO---City-Adventskalender-2024_1.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -261,7 +262,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
         "collection_CW7ADQ": {
