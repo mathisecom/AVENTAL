@@ -224,6 +224,7 @@
           "type": "collection",
           "settings": {
             "collection": "chocolats",
+            "image": "shopify://shop_images/large-7369d3d846358ad90ff610562c52c1ed.webp",
             "subheading": "",
             "title": "Chocolats",
             "url": "",
