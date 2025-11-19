@@ -420,15 +420,15 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Puis-je suivre ma commande ?",
+            "content": "<p>Oui ! Dès l’expédition, vous recevrez un <strong>numéro de suivi</strong> vous permettant de suivre votre colis en temps réel jusqu’à sa livraison.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quels modes de paiement acceptez-vous ?",
+            "content": "<p>Nous acceptons les paiements par <strong>carte bancaire (Visa, Mastercard, Amex)</strong> ainsi que <strong>PayPal</strong>. Tous les paiements sont sécurisés grâce à un cryptage SSL.</p>"
           }
         }
       },
