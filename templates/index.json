@@ -31,7 +31,7 @@
             "style": "outline",
             "size": "lg",
             "text": "DÉCOUVRIR",
-            "url": "",
+            "url": "shopify://collections/nos-calendriers",
             "background": "",
             "text_color": "#ffffff"
           }
@@ -198,7 +198,7 @@
             "title": "Toutes les Marques, Un Seul Endroit",
             "content": "<p>Plongez dans la magie de l’attente avec notre vaste <strong>sélection de calendriers</strong> de l’Avent issus des plus grandes marques.</p><p>Beauté, gourmandises, jouets, bien-être ou éditions premium : nous avons réuni les meilleurs modèles pour <strong>satisfaire toutes les envies et tous les budgets.</strong></p>",
             "link_text": "DÉCOUVRIR",
-            "link_url": "",
+            "link_url": "shopify://collections/nos-calendriers",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#5b1218",
