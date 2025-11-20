@@ -221,6 +221,21 @@
     "collection_list_DqXhgG": {
       "type": "collection-list",
       "blocks": {
+        "collection_CW7ADQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "beaute-bien-etre",
+            "image": "shopify://shop_images/Calendrier-avent-huda-beauty-2022-maquillage-4.jpg",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
         "collection_cfzXwd": {
           "type": "collection",
           "settings": {
@@ -265,28 +280,13 @@
             "overlay_color": "#000000",
             "overlay_opacity": 50
           }
-        },
-        "collection_CW7ADQ": {
-          "type": "collection",
-          "settings": {
-            "collection": "beaute-bien-etre",
-            "image": "shopify://shop_images/Calendrier-avent-huda-beauty-2022-maquillage-4.jpg",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 50
-          }
         }
       },
       "block_order": [
+        "collection_CW7ADQ",
         "collection_cfzXwd",
         "collection_JBfnkk",
-        "collection_7ra34A",
-        "collection_CW7ADQ"
+        "collection_7ra34A"
       ],
       "name": "Collection list",
       "settings": {
